@@ -233,13 +233,6 @@ class EntidadesTableSeeder extends Seeder
 			'name' =>  'Zacatecas',
 			'abbrev' =>  'Zac.',
 			'country' =>  'MX'
-
-		]);
-		factory(\App\Entidad::class)->create([
-			'id' => ,
-			'name' => ,
-			'abbrev' => ,
-			'country' => 
 		]);
     }
 }
