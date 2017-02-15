@@ -7742,7 +7742,7 @@ class MunicipiosTableSeeder extends Seeder
             'number' =>  '548',
         ]);
         factory(\App\Municipio::class)->create([
-            'name' =>  'Heroica Villa Tezoatlán de Segura y Luna,
+            'name' =>  'Heroica Villa Tezoatlán de Segura y Luna. Cuna de la Independencia de Oaxaca',
             'entidad_id' => '20',
             'number' =>  '549',
         ]);

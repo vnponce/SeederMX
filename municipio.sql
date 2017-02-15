@@ -1544,7 +1544,7 @@ INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('2
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '546', 'Teotitlán del Valle', '0001', 'Teotitlán del Valle');
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '547', 'Teotongo', '0001', 'Teotongo');
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '548', 'Tepelmeme Villa de Morelos', '0001', 'Tepelmeme Villa de Morelos');
-INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '549', 'Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca', '0001', 'Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca');
+INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '549', 'Heroica Villa Tezoatlán de Segura y Luna. Cuna de la Independencia de Oaxaca', '0001', 'Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca');
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '550', 'San Jerónimo Tlacochahuaya', '0001', 'San Jerónimo Tlacochahuaya');
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '551', 'Tlacolula de Matamoros', '0001', 'Tlacolula de Matamoros');
 INSERT INTO municipios(estado_id, number, name, number_cab, name_cab) VALUES ('20', '552', 'Tlacotepec Plumas', '0001', 'Tlacotepec Plumas');
